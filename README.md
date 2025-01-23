@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mathildelho
-- 👀 I’m interested in IA
-- 🌱 I’m currently looking for an apprenticeship
-- 💞️ I’m looking to collaborate on data in health and sciences
+- 👀 I’m interested in IA !
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on data in health, sciences, industry
   
 
 <!---
